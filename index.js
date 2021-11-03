@@ -4,7 +4,7 @@ const RPC = require("discord-rpc")
 var colors = require("colors")
 
 process.stdout.write(
-    String.fromCharCode(27) + "]0;" + 'VimeTops' + String.fromCharCode(7)
+    String.fromCharCode(27) + "]0;" + 'VimeRPC' + String.fromCharCode(7)
 );
 
 const rpc = new RPC.Client({
