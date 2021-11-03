@@ -97,7 +97,7 @@ const main = async (err) => {
 
     let status = await q(
         "</> ".green.bold +
-        "Доступно: ann, bw, bwq, bwh, bb, ann, arc, sw, swt, mw, cp, bp, dr, kpvp, build, os, gg, prison, hg, hgl, lobby\n"
+        "Доступно: ann, bw, bwq, bwh, bb, arc, sw, swt, mw, cp, bp, dr, kpvp, build, os, gg, prison, hg, hgl, lobby\n"
             .dim.brightGreen
     );
 
